@@ -29,7 +29,7 @@
     "@aws-sdk/signature-v4": "^3.374.0",
     "aws-cdk-lib": "^2.99.0",
     "awscdk-appsync-utils": "^0.0.328",
-    "axios": "^1.6.2",
+    "axios": "^1.7.4",
     "cfn-response": "^1.0.1",
     "constructs": "^10.0.0",
     "esbuild": "^0.19.2",
